@@ -15,7 +15,6 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         title: Container(
-            alignment: Alignment.topCenter,
             child: const Text(
               'Home Page',
               style: TextStyle(
